@@ -22,4 +22,5 @@ This system is designed to intelligently match job seekers to the most relevant 
 - Recommendation Engine: Provides dynamic job suggestions
 
 📁 Project Structure
+
 ![project structure](https://github.com/user-attachments/assets/1a1e2ed3-d556-4e9f-8376-f7551fe55bff)
