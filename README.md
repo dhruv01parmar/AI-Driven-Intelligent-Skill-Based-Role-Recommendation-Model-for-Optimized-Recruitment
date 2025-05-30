@@ -20,3 +20,5 @@ This system is designed to intelligently match job seekers to the most relevant 
 - AI Job Matching Module: NLP-based resume/job compatibility scoring
 - Application Module: Tracks applications and statuses
 - Recommendation Engine: Provides dynamic job suggestions
+
+![project structure](https://github.com/user-attachments/assets/1a1e2ed3-d556-4e9f-8376-f7551fe55bff)
