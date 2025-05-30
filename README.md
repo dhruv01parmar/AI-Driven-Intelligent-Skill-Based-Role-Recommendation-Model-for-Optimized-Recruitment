@@ -24,13 +24,22 @@ This system is designed to intelligently match job seekers to the most relevant 
 📁 Project Structure
 
 AI-Skill-Job-Portal/
-├── app.py           
+├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── job_applications.csv
+
 ├── data/
+
 │   ├── jobs.csv
+
 │   ├── resumes_data.csv
+
 │   ├── users.json
+
 ├── resumes/
+
 │   └── uploaded_resumes/
