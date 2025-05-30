@@ -1,0 +1,7 @@
+Employer,Title,Company,Location,Experience,Skills,Salary,Type
+Jay,Software Developer,Tata Consultancy Services,Gandhinagar,2,"Proficiency in Java, Python, C#, Spring Boot, Django",64412,Full-Time
+Jay,Business Analyst,Infosys,Gift City,1,"Python, AI/ML, SQL",68420,Full-Time
+Jay,Cloud Engineer,Wipro,Ahmedabad,5,"Hands-on with AWS, Azure, Google Cloud, Bash, Python",98500,Full-Time
+Jay,Data Scientist,HCLTech,Gift City,0,"Python, Pandas, NumPy, Scikit-learn, ML models and statistical analysis, Tableau, Power BI, SQL",15000,Internship
+Jay,Cybersecurity Analyst,Tech Mahindra,Gift City,5,"network security, firewalls, IDS/IPS, Wireshark, Splunk",105000,Full-Time
+Jay,Python Developer,Capgemini,Ahmedabad,0,"Python, Experience with RESTful API development and integration, SQL/NoSQL",45000,Full-Time

@@ -1,0 +1,13 @@
+{
+    "user1": {
+        "password": "hashed_password_here"
+    },
+    "Dhruv": {
+        "password": "$2b$12$V2Cb/wuzCShUvNiCHkfwHOiPI2DOjm3UfK3NDeTxL3uJSCfPgoPjS",
+        "role": "Job Seeker"
+    },
+    "Jay": {
+        "password": "$2b$12$NoYCFdsy7XH2ToN5q/hSKO4MFK6hq72/y1aI29k3dD26OBwjIKWtG",
+        "role": "Employer"
+    }
+}
