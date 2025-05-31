@@ -1,0 +1,15 @@
+streamlit==1.33.0
+pandas==2.2.2
+bcrypt==4.1.2
+torch==2.3.0
+scikit-learn==1.4.2
+sentence-transformers==2.6.1
+streamlit-cookies-manager==0.1.2
+numpy==1.26.4
+transformers==4.40.0
+scipy==1.13.0
+typing-extensions==4.11.0
+filelock==3.13.3
+requests==2.31.0
+tokenizers==0.19.1
+joblib==1.4.2
